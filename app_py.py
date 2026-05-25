@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1jcse15xkwffrwKqV10UhSv1Xp29AtR7s
 """
 
-!pip install qdrant-client sentence-transformers groq PyMuPDF langchain langchain-text-splitters streamlit -q
 
 # Cellule à ajouter dans ton notebook AVANT de lancer app.py
 import os
